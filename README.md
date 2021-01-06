@@ -1,4 +1,4 @@
-# Image recognition using Cloud Development Kit (CDK)
+# Image recognition using Cloud Development Kit (CDK) 
 
 This is the hands-on from AWS re:Invent 2020/21 speak [Modelling and provisioning apps with AWS CDK](https://virtual.awsevents.com/media/1_ducee6iw)
 <br />
